@@ -91,7 +91,7 @@ def load_data(city):
     
 
     while month is None:
-        user_input = input('please choose a month (all, January, February, March, April, May, June): ')
+        user_input = input('please choose a month (all, January, February, March, April, May, June): ').lower()
         if user_input in month_list:
             month = user_input
         else:
