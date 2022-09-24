@@ -8,6 +8,7 @@ bikeshare file
 
 ### Description
 This project analyzes data from a bikeshare company.
+The data shows customer information.
 
 ### Files used
 bikeshare_project_resubmission.py
@@ -16,5 +17,5 @@ chicago.csv
 new_work_city.csv
 
 ### Credits
-To Udacity
+To Udacity, for sharing their knowledge.
 
