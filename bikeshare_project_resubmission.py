@@ -208,6 +208,7 @@ def trip_duration_stats(df):
     mean_minutes = (mean_travel_time.seconds//60)%60
     
     print(f"The mean travel time is {mean_days} days, {mean_hours} hours and {mean_minutes} minutes ({mean_travel_time}).")
+    print("How was your trip? Post it on our instagram page")
 
 
     print("\nThis took %s seconds." % (time.time() - start_time))
